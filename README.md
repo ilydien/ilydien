@@ -6,21 +6,21 @@
 <p align="center">
   <!-- Streak -->
   <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
 <p align="center">
   <!-- Activity Graph  -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilydien&theme=dracula&hide_border=true&border_radius=10" />
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilydien&theme=dracula&hide_border=true&border_radius=10" />
   </a>
 </p>
 
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ Language & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -38,10 +38,7 @@
 ## 🌐 Find Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAMEMU" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:EMAILMU@gmail.com">
+  <a href="mailto:akbardian64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
