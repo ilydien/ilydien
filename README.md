@@ -49,10 +49,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
-      <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/97219816?s=200&v=4" width="48" height="48" alt="CachyOS" />
-        <br>CachyOS
-      </td>
     </tr>
   </table>
 </p>
