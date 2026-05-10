@@ -6,14 +6,14 @@
 <p align="center">
   <!-- Streak -->
   <a href="https://git.io/streak-stats">
-    <img width="90%" src="https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="50%" src="https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
 <p align="center">
   <!-- Activity Graph  -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilydien&theme=dracula&hide_border=true&border_radius=10" />
+    <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilydien&theme=dracula&hide_border=true&border_radius=10" />
   </a>
 </p>
 
