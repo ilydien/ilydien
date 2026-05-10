@@ -1,5 +1,7 @@
 # Hello There 👋
 
+🎓 **Data Science Undergraduate Student** at **Universitas Sebelas Maret (UNS)**
+
 ## 📊 My Stats
 
 
