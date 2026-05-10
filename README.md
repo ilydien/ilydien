@@ -11,8 +11,6 @@
   🎨 Skilled in <b>Music, Design, and Video Editing</b>
 </p>
 
-
-
 ---
 
 ## 🛠️ Language & Tools
@@ -49,16 +47,17 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
+        <br>Neovim
+      </td>
     </tr>
   </table>
 </p>
 
-
-
 ---
 
 ## 📊 My Stats
-
 
 <p align="center">
   <!-- Streak -->
@@ -66,9 +65,6 @@
     <img width="60%" src="https://streak-stats.demolab.com?user=ilydien&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-
-
-
 
 ---
 
