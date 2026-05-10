@@ -2,33 +2,21 @@
 
 ## 📊 My Stats
 
-<p align="center">
-  <!-- Stats Fork - Dibuat Lebar -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ilydien&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-  </a>
-</p>
 
 <p align="center">
-  <!-- Streak - Dibuat Lebar -->
+  <!-- Streak -->
   <a href="https://git.io/streak-stats">
     <img width="90%" src="https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Activity Graph - Sudah Lebar Dari Sananya -->
+  <!-- Activity Graph  -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilydien&theme=dracula&hide_border=true&border_radius=10" />
   </a>
 </p>
 
-<p align="center">
-  <!-- Top Languages - Dibuat Lebar -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ilydien&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" />
-  </a>
-</p>
 
 ---
 
