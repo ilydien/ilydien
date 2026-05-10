@@ -1,6 +1,6 @@
 # Hello There 👋
 
-## 🎓 About Me
+# 🎓 About Me
 <p align="center">
   🎓 <b>Data Science Undergraduate Student</b> at <b>Universitas Sebelas Maret (UNS)</b>
 </p>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Language & Tools
+# 🛠️ Language & Tools
 
   <table align="center">
     <tr>
@@ -57,17 +57,16 @@
 
 ---
 
-## 📊 Activity
-
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ilydien&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=ilydien&theme=dark&hide_border=false" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ilydien&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
----
