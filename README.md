@@ -4,6 +4,12 @@
   🎓 <b>Data Science Undergraduate Student</b> at <b>Universitas Sebelas Maret (UNS)</b>
 </p>
 
+<p align="center">
+  🏗️ Tertarik dengan <b>Desain Arsitektur</b><br/>
+  🤖 Tertarik dengan <b>Machine Learning</b><br/>
+  🎨 Memiliki keterampilan di bidang <b>Musik, Desain, dan Editing Video</b>
+</p>
+
 ---
 
 ## 🛠️ Language & Tools
