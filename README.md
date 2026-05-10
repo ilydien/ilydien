@@ -1,15 +1,7 @@
 # Hello There 👋
 
-🎓 **Data Science Undergraduate Student** at **Universitas Sebelas Maret (UNS)**
-
-## 📊 My Stats
-
-
 <p align="center">
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://streak-stats.demolab.com?user=ilydien&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
+  🎓 <b>Data Science Undergraduate Student</b> at <b>Universitas Sebelas Maret (UNS)</b>
 </p>
 
 ---
@@ -29,9 +21,25 @@
 
 ---
 
+## 📊 My Stats
+
+
+<p align="center">
+  <!-- Streak -->
+  <a href="https://git.io/streak-stats">
+    <img width="70%" src="https://streak-stats.demolab.com?user=ilydien&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+
+
+---
+
 ## 🌐 Find Me
 
 <p align="left">
+  <a href="https://instagram.com/USERNAMEIGKAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:akbardian64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
