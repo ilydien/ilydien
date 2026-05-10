@@ -16,7 +16,6 @@
 
 ## 🛠️ Language & Tools
 
-p align="center">
   <table align="center">
     <tr>
       <td align="center" width="96">
