@@ -2,7 +2,7 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilydien&show_icons=true&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilydien&theme=dracula)
 
 ---
 
