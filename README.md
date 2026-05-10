@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  🏗️ Tertarik dengan <b>Desain Arsitektur</b><br/>
-  🤖 Tertarik dengan <b>Machine Learning</b><br/>
-  🎨 Memiliki keterampilan di bidang <b>Musik, Desain, dan Editing Video</b>
+  🏗️ Interested in <b>Architecture Design</b><br/>
+  🤖 Interested in <b>Machine Learning</b><br/>
+  🎨 Skilled in <b>Music, Design, and Video Editing</b>
 </p>
 
 ---
