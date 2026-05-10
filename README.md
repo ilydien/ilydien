@@ -17,8 +17,3 @@
 ![CachyOS](https://img.shields.io/badge/CachyOS-00BFFF?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
-
-## Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAMEMU)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAILMU@gmail.com)
