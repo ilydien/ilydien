@@ -1,8 +1,9 @@
 # Hello There 👋
 
+
+
 ## My Stats
-[
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilydien&theme=dracula)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ilydien&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilydien&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
