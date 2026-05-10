@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 My Stats
+## 📊 Activity
 
 <p align="center">
   <!-- Streak -->
