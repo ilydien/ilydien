@@ -59,11 +59,15 @@
 
 ## 📊 Activity
 
-<p align="center">
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img width="60%" src="https://streak-stats.demolab.com?user=ilydien&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ilydien&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ilydien&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
