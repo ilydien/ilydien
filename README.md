@@ -10,6 +10,8 @@
   🎨 Skilled in <b>Music, Design, and Video Editing</b>
 </p>
 
+
+
 ---
 
 ## 🛠️ Language & Tools
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/CachyOS-00BFFF?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
+
+
 ---
 
 ## 📊 My Stats
@@ -36,6 +40,8 @@
     <img width="70%" src="https://streak-stats.demolab.com?user=ilydien&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
+
+
 
 
 ---
