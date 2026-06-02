@@ -63,8 +63,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=ilydien&theme=dark&hide_border=false" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ilydien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
 
 ---
 
